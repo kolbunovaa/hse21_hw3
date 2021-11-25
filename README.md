@@ -8,3 +8,6 @@
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_00-38-03.png)
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_00-38-36.png)
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_00-39-05.png)
+
+### Уникальные чтения
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_02-55-53.png)
