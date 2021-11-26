@@ -11,3 +11,8 @@
 
 ### Уникальные чтения
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_02-55-53.png)
+
+### Статистика по чтениям
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-44-09.png)
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-44-58.png)
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-45-23.png)
