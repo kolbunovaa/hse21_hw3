@@ -27,5 +27,5 @@ https://colab.research.google.com/drive/1K6EsldQ5OGZTprpZWuXd1Bw4vRLIC3bK?usp=sh
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-03-57.png)
 
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-21-34.png)
-![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-22-07.png)
-![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-22-31.png)
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-32-29.png)
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_18-33-05.png)
