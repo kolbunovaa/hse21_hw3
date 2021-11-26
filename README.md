@@ -1,3 +1,6 @@
+### Ссылка на код для первой части
+https://colab.research.google.com/drive/1iWB7bnAbpi9z707WhYIzeP5KoVw50B_v?usp=sharing
+
 ### Статистика из multiqc
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_00-34-58.png)
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_00-35-30.png)
@@ -16,3 +19,6 @@
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-44-09.png)
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-44-58.png)
 ![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-45-23.png)
+
+### 
+![](https://github.com/kolbunovaa/images/blob/main/2021-11-26_16-48-21.png)
